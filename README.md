@@ -9,7 +9,4 @@ go get -u gorm.io/driver/postgres
 
 # Install godotenv for environment variables
 go get github.com/joho/godotenv
-
-# Install CompileDaemon for hot reload
-go get github.com/githubnemo/CompileDaemon
 ```
